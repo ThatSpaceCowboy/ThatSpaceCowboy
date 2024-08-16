@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm a sophomore at Thapar Institute of Engineering and Tech currently pursuing BTech in CS. I'm a tech fanatic and love experimenting with the latest gadgets and gizmos.
+I'm a final year student at Thapar Institute of Engineering and Tech currently pursuing BTech in CS. I'm a tech fanatic and love experimenting with the latest gadgets and gizmos.
 <br>
 <br>
 🔭 I’m currently working on AndroidApp development<br>🌱 I’m currently learning Data Analysis<br>👯 I’m looking to collaborate on developing new and intriguing open-source projects, with the community, for the community<br>🤔 I’m looking for help with Big Data | Machine Learning<br>💬 Ask me about Science and Technology | Anime | Music | Reading<br>📫 Active User at: Github | Codechef <br>⚡ Fun fact: I collect anime cards too. Find my collection at  https://otaku.gg/ThatSpaceCowboy
